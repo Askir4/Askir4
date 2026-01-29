@@ -4,12 +4,14 @@ Ein absoluter Anfänger in der Programmierung
 
 ---
 
-## About Me
-
-Ich bin ein absoluter Anfänger in der Programmierung und lerne gerade verschiedene Programmiersprachen und versuche besser zu werden. Jeder Code hier sollte also kritisch betrachtet werden. Bitte verwende ihn nicht ohne ihn zu überprüfen.
+## Wichtiges Zitat
+What is your duty? To serve the Emperor's will. What is the Emperor's will? That we fight and die. What is death? It is our duty.
 
 ---
+## Disclaimer
+Bitte beachte, dass ich ein absoluter Anfänger in der Programmierung bin und diese Profile nur fürs Lernen und Üben erstellt habe. Jeder Code hier sollte also kritisch betrachtet werden. Bitte verwende ihn nicht ohne ihn zu überprüfen.
 
+---
 ## Tech Stack
 
 ### Languages
