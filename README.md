@@ -1,14 +1,12 @@
-# Hello, I'm Askir4
+# Hallo, ich bin Askir4
 
-Software Developer focused on building clean, maintainable solutions.
+
 
 ---
 
 ## About Me
 
-I am a developer with a passion for writing efficient and well-structured code.
-Currently exploring modern development practices and continuously improving my skills.
-Open to collaboration on interesting projects and always eager to learn new technologies.
+Ich bin ein absoluter Anfänger in der Programmierung und lerne gerade verschiedene Programmiersprachen und versuche besser zu werden. Jeder Code hier sollte also kritisch betrachtet werden. Bitte verwende ihn nicht ohne ihn zu überprüfen.
 
 ---
 
@@ -56,5 +54,4 @@ Open to collaboration on interesting projects and always eager to learn new tech
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Askir4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github-Askir4@proton.me)
