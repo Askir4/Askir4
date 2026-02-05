@@ -1,17 +1,21 @@
-# Hallo, ich bin Askir4
+# Hi, I'm Askir4
 
-Ein absoluter Anfänger in der Programmierung
+An absolute beginner in programming
 
 ---
 
-## Wichtiges Zitat
+## Important Quote
+
 What is your duty? To serve the Emperor's will. What is the Emperor's will? That we fight and die. What is death? It is our duty.
 
 ---
+
 ## Disclaimer
-Bitte beachte, dass ich ein absoluter Anfänger in der Programmierung bin und diese Profile nur fürs Lernen und Üben erstellt habe. Jeder Code hier sollte also kritisch betrachtet werden. Bitte verwende ihn nicht ohne ihn zu überprüfen.
+
+Please note that I am an absolute beginner in programming and have created these profiles only for learning and practice. All code here should be critically reviewed. Please do not use it without reviewing it first.
 
 ---
+
 ## Tech Stack
 
 ### Languages
